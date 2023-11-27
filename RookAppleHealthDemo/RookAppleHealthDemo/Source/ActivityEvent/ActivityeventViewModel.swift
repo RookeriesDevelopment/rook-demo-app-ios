@@ -51,7 +51,7 @@ class ActivityEventViewModel: ObservableObject {
       guard let data = event.eventData else {
         continue
       }
-      eventTransmissionManager.enqueActivityEvent(data) { result in
+      eventTransmissionManager.enqueueActivityEvent(data) { result in
         switch result {
         case .success(let success):
           debugPrint("success enqueue events \(success)")

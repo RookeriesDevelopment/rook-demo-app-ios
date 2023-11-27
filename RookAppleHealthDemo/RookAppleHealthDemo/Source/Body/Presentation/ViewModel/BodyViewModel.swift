@@ -27,7 +27,7 @@ class BodyViewModel: ObservableObject {
   
   func requestBodyPermission() {
     self.isLoading = true
-    permissionManager.requesBodyPermissions() { [weak self] result in
+    permissionManager.requestBodyPermissions() { [weak self] result in
       DispatchQueue.main.async {
         self?.isLoading = false
         switch result {
