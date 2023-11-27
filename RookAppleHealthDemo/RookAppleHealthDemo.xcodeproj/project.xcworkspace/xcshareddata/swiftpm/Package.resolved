@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/RookeriesDevelopment/rook-ios-extraction-sdk",
       "state" : {
-        "revision" : "b6bbedf30215798bea27aaff0285e9ce83f7f6fc",
-        "version" : "1.0.4"
+        "revision" : "6e27b2709e5b7ea5fb0eaac91ecea08d98a0e3e0",
+        "version" : "1.0.7"
       }
     },
     {
@@ -15,7 +15,7 @@
       "location" : "https://github.com/RookeriesDevelopment/rook-ios-transmission-sdk.git",
       "state" : {
         "branch" : "main",
-        "revision" : "810a6f0af1a10ca5be7a6be2baf1b7df5e738639"
+        "revision" : "e8b801911c66465712306f8ee08eb560716c56c3"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/RookeriesDevelopment/rook-ios-users-sdk",
       "state" : {
-        "revision" : "d785b29b9502368db84a51e5eeba3e0ab1679db8",
-        "version" : "1.0.2"
+        "revision" : "ddf15370e8a5a339e1cadd883f5f54242dfa8913",
+        "version" : "1.0.3"
       }
     }
   ],
